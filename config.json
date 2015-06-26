@@ -1,0 +1,7 @@
+{
+    "SECRET": "NBatePapo",
+    "KEY": "nbatepapo.sid",
+    "MAX_AGE": {
+      "maxAge": 3600000
+    }
+  }
